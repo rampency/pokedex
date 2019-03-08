@@ -1,6 +1,5 @@
 # Pokédex
 Author: Vijay Gopal
-email: deeps918@gmail.com
 
 Using the Pokeapi I made a web app using Node.js and Vue.js Framework. The app after it is launched can be viewed on http://localhost:8080/.
 
