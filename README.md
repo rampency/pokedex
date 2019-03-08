@@ -10,7 +10,8 @@ You can:
 # Build Setup
 
 ``` bash
-# Check to see if you have Node and npm installed, run the commands below and you should see an output. If not install Node and npm for your operating system then continue.
+# Check to see if you have Node and npm installed, run the commands below and you should see an output. 
+# If not install Node and npm for your operating system then continue.
 node -v
 v11.10.1
 npm -v
